@@ -1,8 +1,5 @@
 # smartDustbin
 
-Sure! Here's a sample `README.md` file for your **Smart Dustbin** project based on the Arduino `.ino` file you uploaded. This README is designed to explain what the project is about, how it works, and how others can replicate it.
-
----
 
 ## 🗑️ Smart Dustbin using Arduino
 
